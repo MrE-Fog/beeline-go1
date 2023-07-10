@@ -18,9 +18,9 @@ require (
 	github.com/labstack/echo/v4 v4.5.0
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
 	goji.io/v3 v3.0.0
-	google.golang.org/grpc v1.38.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/grpc v1.56.2
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )

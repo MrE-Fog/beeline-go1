@@ -14,7 +14,7 @@ require (
 	github.com/honeycombio/libhoney-go v1.15.4
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/labstack/echo/v4 v4.5.0
+	github.com/labstack/echo/v4 v4.11.1
 	github.com/stretchr/testify v1.8.3
 	github.com/ugorji/go v1.1.7 // indirect
 	goji.io/v3 v3.0.0
